@@ -53,6 +53,13 @@ streamlit run app.py
 | Random Forest     | 0.705   | 0.455 | 0.324|
 | XGBoost          | 0.724   | 0.440 | 0.320|
 
+
+## 🖥️ Usage
+1. Enter **car details** in the web app (km driven, fuel type, etc.).
+2. Click **Predict Price**.
+3. View the **predicted selling price**.
+
+
 ##  Feature Importance (SHAP)
 SHAP analysis was conducted to understand the most influential factors in predicting car prices.
 ```python
